@@ -9,3 +9,6 @@ API servisleri Laravel framework ile geliştirilmiştir.
 <p>Giriş yapma</p>
 <p>Ürün ekleme/silme/güncelleme</p>
 <p>Satıcı ekleme/silme/güncelleme</p>
+
+
+Üye olma, giriş yapma, ürün ekleme/silme/güncelleme işlemleri verilecek name-password ile Postman aracılığı ile denenebilir. 
