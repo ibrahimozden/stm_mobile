@@ -4,8 +4,8 @@
 
 API servisleri Laravel framework ile geliştirilmiştir. 
 
-Yapılabilen işlemler;
-Üye olma
-Giriş yapma
-Ürün ekleme/silme/güncelleme
-Satıcı ekleme/silme/güncelleme
+<h1>Yapılabilen işlemler;</h1>
+<p>Üye olma</p>
+<p>Giriş yapma</p>
+<p>Ürün ekleme/silme/güncelleme</p>
+<p>Satıcı ekleme/silme/güncelleme</p>
